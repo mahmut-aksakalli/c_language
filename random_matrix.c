@@ -13,14 +13,14 @@ int main(){
 	for(j=0; j<3; ++j) { 
 		matrix[i][j]=rand()%3;
 	} 
-//Matrisi yazdýr
+//Matrisi yazdÃ½r
 	for(i=0; i<3; ++i){
 	for(j=0; j<3; ++j) { 
 		printf("%d\t",matrix[i][j]);
 	} 
 		printf("\n");
 	} 
-//Sum yazdýr	
+//Sum yazdÃ½r	
 	for(i=0; i<3; ++i){
 	for(j=0; j<3; ++j) { 
 		number=trace(matrix[i][j],i,j);
