@@ -15,17 +15,17 @@ This repo contains my lab studies in courses EE103 Introduction to Programming. 
 * File Handling
 
 
-Homework-1 problem
+<p>###Homework-1 problem</p>
 <img src = "images/1.jpg"/>
 
-Homework-2 problem
+<p>###Homework-2 problem</p>
 <img src = "images/2.jpg"/>
 
-Homework-3 problem
+<p>###Homework-3 problem</p>
 <img src = "images/3.jpg"/>
 
-Homework-4 problem
+<p>###Homework-4 problem</p>
 <img src = "images/4.jpg"/>
 
-Homework-5 problem
+<p>###Homework-5 problem</p>
 <img src = "images/5.jpg"/>
