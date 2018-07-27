@@ -8,8 +8,8 @@ int main(void){
 		
 		if(x+y==5 && x-y==1)
 			printf("x=%d \ny=%d",x,y);
-		else
-			x = x+1;
-			y = y-1;
+		
+		x++;
+		y--;
 	}
 }
